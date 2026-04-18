@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="https://4043094.github.io/xml"
+    xmlns="https://4043094.github.io/xml"
     elementFormDefault="qualified">
 
     <!-- Reusable simple type for IPv4 addresses -->
