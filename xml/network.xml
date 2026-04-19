@@ -2,7 +2,7 @@
 
 <network xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="https://4043094.github.io/xml"
-    xsi:schemaLocation="https://4043094.github.io/xml https://4043094.github.io/xml/network.xsd">
+    xsi:schemaLocation="https://4043094.github.io/xml network.xsd">
     <router>
         <name>Fios by Verizon</name>
         <model>Fios-G1100</model>
